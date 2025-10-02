@@ -1,0 +1,15 @@
+Xin chào, tôi là Hồ Phước Lợi.
+Tôi đang học công nghệ thông tin.
+Tôi yêu thích việc tìm hiểu lập trình và công nghệ mới.
+Tôi mong muốn trở thành một lập trình viên giỏi.
+Tôi thích làm việc nhóm và học hỏi từ người khác.
+
+Sở thích:
+- Đọc sách
+- Lập trình
+- Chơi thể thao
+
+Kỹ năng:
+- Lập trình C#
+- Làm việc nhóm
+- Giải quyết vấn đề
