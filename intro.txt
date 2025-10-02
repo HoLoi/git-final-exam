@@ -1,4 +1,6 @@
 Hello, this is Hồ Phước Lợi.
+Xin chào, tôi là Hồ Phước Lợi
+Conflict resolved on 02/10/2025
 Tôi đang học công nghệ thông tin.
 Tôi yêu thích việc tìm hiểu lập trình và công nghệ mới.
 Tôi mong muốn trở thành một lập trình viên giỏi.
