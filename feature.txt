@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý sự cố trong ký túc xá.
+1. Người dùng có thể báo cáo sự cố (điện, nước, hỏng thiết bị).
+2. Quản trị viên có thể duyệt và theo dõi sự cố.
+3. Hệ thống gửi thông báo cho người quản lý phòng.
+4. Tính năng thống kê sự cố theo tháng.
+5. Hỗ trợ cập nhật tình trạng xử lý sự cố.
